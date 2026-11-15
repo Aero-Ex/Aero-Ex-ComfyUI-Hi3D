@@ -1,0 +1,14 @@
+[project]
+name = "ComfyUI-Hi3D"
+description = "dependency-free Hi3D v1.0 (SPARC3D) mesh refinement for ComfyUI."
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.10"
+
+[project.urls]
+Repository = "https://github.com/Aero-Ex/Aero-Ex-ComfyUI-Hi3D"
+
+[tool.comfy]
+PublisherId = "aerox"
+DisplayName = "Hi3D"
+Icon = ""
