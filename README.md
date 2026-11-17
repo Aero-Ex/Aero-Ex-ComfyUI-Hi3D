@@ -6,7 +6,7 @@ dependency-free [Hi3D v1.0](https://github.com/hi3d-official/Hi3Dv1.0) (SPARC3D)
 
 ```
 cd ComfyUI/custom_nodes
-git clone https://github.com/Aero-Ex/Aero-Ex-ComfyUI-Hi3D
+git clone https://github.com/Aero-Ex/ComfyUI-Hi3D
 ```
 
 Restart ComfyUI. No extra packages are needed.
